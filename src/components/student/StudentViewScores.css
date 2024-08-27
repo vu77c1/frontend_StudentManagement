@@ -1,0 +1,6 @@
+.row-red {
+  background-color: #ffcccc; /* Light red background for 'F' grade */
+}
+.square-avatar {
+  border-radius: 0 !important; /* Remove border radius to make it square */
+}
